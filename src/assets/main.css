@@ -1,0 +1,18 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+#classManageContainer{
+  box-sizing: border-box;
+  width: 1225px;
+  margin: 0 auto;
+}
+.classManageHeader{
+  height: 60px;
+  line-height: 60px;
+  position: relative;
+  background-color: #f9fafc;
+}
